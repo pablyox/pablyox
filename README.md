@@ -1,8 +1,13 @@
-## 👋 Hola, soy Pablo
-Estudiante de Desarrollo de Aplicaciones Web (DAW). Me interesa el desarrollo web y la programación en HTML, CSS, JavaScript y React. 
-Actualmente, estoy trabajando en un proyecto basado en la API de Dragon Ball.
+## 👋 ¡Hola, soy Pablo!
+Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) de 18 años, apasionado por la programación y el desarrollo web. Quiero aprender mas tecnologías y crear proyectos con creatividad
 
-Si quieres añadir más detalles o enlaces, dime y lo ajustamos. 🚀
+🚀 Sobre mí:
+💻 Me especializo en HTML, CSS, JavaScript y React.
+🔥 Actualmente, estoy desarrollando un proyecto sobre Dragon Ball, donde uso una API para mostrar información de personajes y transformaciones.
+⚽ Además de la programación, me gusta el deporte y mantenerme activo.
+🎯 Siempre busco mejorar mis habilidades y aprender cosas nuevas.
+📫 ¿Quieres conectar?
+Si te interesa mi trabajo o quieres hablar sobre tecnología, ¡estoy abierto a nuevas ideas y colaboraciones!
 
 <!--
 **pablyox/pablyox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
