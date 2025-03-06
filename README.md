@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hola, soy Pablo
+Estudiante de Desarrollo de Aplicaciones Web (DAW). Me interesa el desarrollo web y la programación en HTML, CSS, JavaScript y React. 
+Actualmente, estoy trabajando en un proyecto basado en la API de Dragon Ball.
+
+Si quieres añadir más detalles o enlaces, dime y lo ajustamos. 🚀
 
 <!--
 **pablyox/pablyox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
